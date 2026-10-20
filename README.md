@@ -15,7 +15,7 @@ Free [Agent Skills](https://agentskills.io) for makers and print-on-demand selle
 With the [Skills CLI](https://github.com/vercel-labs/skills):
 
 ```bash
-npx skills add Sofiamastery/heeexy-skills
+npx skills add heeexy-app/heeexy-skills
 ```
 
 Or copy a folder from `skills/` into `.claude/skills/` in your project (or `~/.claude/skills/` for every project) and restart your agent.
